@@ -56,6 +56,15 @@ English speaking practice built from the user's own material. A CV, voice note, 
 
 <br>
 
+## Activity
+
+<img src="./assets/stats.svg" alt="Commits and languages over the last 12 months, across owned, collaborator and private repositories" width="100%">
+
+Counted from every repository I work in, including private and client repositories, and regenerated daily by
+[a GitHub Action](.github/workflows/stats.yml). Private repositories are counted but never named.
+
+<br>
+
 ## Stack
 
 | | |
@@ -81,4 +90,4 @@ everything they produce. The repositories show that process in the open.
 [LinkedIn](https://id.linkedin.com/in/haidir-magribi) &nbsp;·&nbsp;
 [YouTube](https://www.youtube.com/@haidir_tech) &nbsp;·&nbsp;
 [mrwealthai.com](https://mrwealthai.com) &nbsp;·&nbsp;
-[Google Play](https://play.google.com/store/apps/developer?id=Haidir+Magribi)
+[Google Play](https://play.google.com/store/apps/developer?id=Hai+developer)
