@@ -35,6 +35,12 @@ async function all(path) {
   return out;
 }
 
+// Private and collaborator repositories are only visible to a classic token with the repo scope.
+// Fail instead of overwriting the SVG with public-only numbers.
+const probe = await fetch("https://api.github.com/user", { headers: { Authorization: `Bearer ${token}` } });
+const scopes = (probe.headers.get("x-oauth-scopes") || "").split(",").map((s) => s.trim());
+if (!scopes.includes("repo")) throw new Error("STATS_TOKEN must be a classic token with the repo scope");
+
 const me = (await api(`/users/${login}`)).data;
 const emails = new Set(
   [`${login}@users.noreply.github.com`, `${me.id}+${login}@users.noreply.github.com`, ...(process.env.STATS_EMAILS || "").split(",")]
