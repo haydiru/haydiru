@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Haidir Magribi, product engineer">
+  <style>
+    :root { --bg:#ffffff; --fg:#1f2328; --muted:#59636e; --line:#d1d9e0; --grid:#f3f5f7; --accent:#0969da; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg:#0d1117; --fg:#e6edf3; --muted:#9198a1; --line:#3d444d; --grid:#151b23; --accent:#4493f8; }
+    }
+    .bg { fill: var(--bg); stroke: var(--line); }
+    .grid { fill: none; stroke: var(--grid); stroke-width: 1; }
+    .sans { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .fg { fill: var(--fg); }
+    .muted { fill: var(--muted); }
+    .accent { fill: var(--accent); }
+    .box { fill: var(--bg); stroke: var(--line); stroke-width: 1.25; }
+    .box-a { fill: var(--bg); stroke: var(--accent); stroke-width: 1.5; }
+    .wire { fill: none; stroke: var(--muted); stroke-width: 1.25; }
+    .rule { stroke: var(--line); stroke-width: 1; }
+  </style>
+  <defs>
+    <pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path class="grid" d="M24 0H0V24"/>
+    </pattern>
+  </defs>
+
+  <rect class="bg" x="0.5" y="0.5" width="1199" height="399" rx="8"/>
+  <rect x="600" y="1" width="598" height="398" fill="url(#g)"/>
+  <line class="rule" x1="600" y1="1" x2="600" y2="399"/>
+
+  <!-- left: identity -->
+  <rect class="accent" x="56" y="58" width="8" height="8"/>
+  <text class="mono muted" x="74" y="66" font-size="13" letter-spacing="1.5">PRODUCT ENGINEER / FOUNDER, PT HM TECH INNOVATION</text>
+
+  <text class="sans fg" x="54" y="140" font-size="58" font-weight="600" letter-spacing="-1">Haidir Magribi</text>
+  <text class="sans fg" x="56" y="188" font-size="20">I design, build and ship software end to end:</text>
+  <text class="sans muted" x="56" y="216" font-size="20">data model, backend, interface, release.</text>
+
+  <text class="mono muted" x="56" y="268" font-size="12" letter-spacing="1">SHIPPED</text>
+  <text class="sans fg" x="56" y="298" font-size="18">AsapRadar <tspan class="muted">android</tspan></text>
+  <text class="sans fg" x="300" y="298" font-size="18">FlagCheck <tspan class="muted">android</tspan></text>
+  <text class="sans fg" x="56" y="326" font-size="18">PropForma Lens <tspan class="muted">chrome</tspan></text>
+  <text class="sans fg" x="300" y="326" font-size="18">AO Mart <tspan class="muted">web</tspan></text>
+
+  <text class="mono muted" x="56" y="364" font-size="12" letter-spacing="1">JAKARTA, INDONESIA · 6°12'S 106°49'E · UTC+7</text>
+
+  <!-- right: fig.1 -->
+  <text class="mono muted" x="640" y="58" font-size="12" letter-spacing="1">FIG.1  HR AUTOMATION, SIMPLIFIED</text>
+
+  <path class="wire" d="M790 120H815V200H850"/>
+  <path class="wire" d="M790 200H850"/>
+  <path class="wire" d="M790 280H815V200H850"/>
+  <path class="wire" d="M980 200H998V130H1016"/>
+  <path class="wire" d="M980 200H998V270H1016"/>
+  <circle class="accent" cx="815" cy="200" r="3"/>
+  <circle class="accent" cx="998" cy="200" r="3"/>
+
+  <rect class="box" x="640" y="100" width="150" height="40" rx="4"/>
+  <text class="mono fg" x="715" y="125" font-size="13" text-anchor="middle">public apply form</text>
+  <rect class="box" x="640" y="180" width="150" height="40" rx="4"/>
+  <text class="mono fg" x="715" y="205" font-size="13" text-anchor="middle">gmail → apps script</text>
+  <rect class="box" x="640" y="260" width="150" height="40" rx="4"/>
+  <text class="mono fg" x="715" y="285" font-size="13" text-anchor="middle">hr dashboard</text>
+
+  <rect class="box-a" x="850" y="172" width="130" height="56" rx="4"/>
+  <text class="mono fg" x="915" y="196" font-size="13" text-anchor="middle">next.js 16</text>
+  <text class="mono muted" x="915" y="214" font-size="11" text-anchor="middle">ingest · score</text>
+
+  <rect class="box" x="1016" y="102" width="140" height="56" rx="4"/>
+  <text class="mono fg" x="1086" y="126" font-size="13" text-anchor="middle">postgres</text>
+  <text class="mono muted" x="1086" y="144" font-size="11" text-anchor="middle">rls per company</text>
+
+  <rect class="box" x="1016" y="242" width="140" height="56" rx="4"/>
+  <text class="mono fg" x="1086" y="266" font-size="13" text-anchor="middle">llm provider</text>
+  <text class="mono muted" x="1086" y="284" font-size="11" text-anchor="middle">key per company</text>
+
+  <path class="wire" d="M1086 298V310"/>
+  <text class="mono muted" x="1086" y="326" font-size="11" text-anchor="middle">gemini · openai · anthropic</text>
+
+  <text class="mono muted" x="640" y="364" font-size="12">company data is isolated by the database, not by app code.</text>
+</svg>
