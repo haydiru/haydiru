@@ -20,9 +20,9 @@
   <rect class="accent" x="56" y="50" width="8" height="8"/>
   <text class="mono muted" x="74" y="58" font-size="12" letter-spacing="1">FIG.2  LAST 12 MONTHS, EVERY REPOSITORY I WORK IN</text>
 
-  <text class="sans fg" x="56" y="104" font-size="20">864 commits in the last 12 months</text>
-  <text class="sans fg" x="56" y="132" font-size="20">across 19 repositories, 12 of them private</text>
-  <text class="sans muted" x="56" y="160" font-size="20">and 4 owned by other people or teams.</text>
+  <text class="sans fg" x="56" y="104" font-size="20">804 commits in the last 12 months</text>
+  <text class="sans fg" x="56" y="132" font-size="20">across 15 repositories, 10 of them private</text>
+  <text class="sans muted" x="56" y="160" font-size="20">and 3 owned by other people or teams.</text>
 
   <rect class="rule-fill" x="56.0" y="299.0" width="6.7" height="1.0"/>
   <rect class="rule-fill" x="65.7" y="299.0" width="6.7" height="1.0"/>
@@ -48,73 +48,73 @@
   <rect class="rule-fill" x="259.5" y="299.0" width="6.7" height="1.0"/>
   <rect class="rule-fill" x="269.2" y="299.0" width="6.7" height="1.0"/>
   <rect class="rule-fill" x="278.9" y="299.0" width="6.7" height="1.0"/>
-  <rect class="accent" x="288.6" y="292.0" width="6.7" height="8.0"/>
-  <rect class="accent" x="298.3" y="272.8" width="6.7" height="27.2"/>
-  <rect class="accent" x="308.0" y="276.8" width="6.7" height="23.2"/>
+  <rect class="accent" x="288.6" y="291.9" width="6.7" height="8.1"/>
+  <rect class="accent" x="298.3" y="272.6" width="6.7" height="27.4"/>
+  <rect class="accent" x="308.0" y="276.6" width="6.7" height="23.4"/>
   <rect class="rule-fill" x="317.7" y="299.0" width="6.7" height="1.0"/>
   <rect class="accent" x="327.4" y="298.0" width="6.7" height="2.0"/>
   <rect class="accent" x="337.1" y="296.8" width="6.7" height="3.2"/>
-  <rect class="accent" x="346.8" y="291.2" width="6.7" height="8.8"/>
+  <rect class="accent" x="346.8" y="291.1" width="6.7" height="8.9"/>
   <rect class="accent" x="356.5" y="298.0" width="6.7" height="2.0"/>
   <rect class="accent" x="366.2" y="298.0" width="6.7" height="2.0"/>
   <rect class="accent" x="375.8" y="298.0" width="6.7" height="2.0"/>
   <rect class="rule-fill" x="385.5" y="299.0" width="6.7" height="1.0"/>
   <rect class="rule-fill" x="395.2" y="299.0" width="6.7" height="1.0"/>
   <rect class="rule-fill" x="404.9" y="299.0" width="6.7" height="1.0"/>
-  <rect class="accent" x="414.6" y="292.0" width="6.7" height="8.0"/>
-  <rect class="accent" x="424.3" y="289.6" width="6.7" height="10.4"/>
+  <rect class="accent" x="414.6" y="291.9" width="6.7" height="8.1"/>
+  <rect class="accent" x="424.3" y="289.5" width="6.7" height="10.5"/>
   <rect class="accent" x="434.0" y="296.0" width="6.7" height="4.0"/>
-  <rect class="accent" x="443.7" y="215.2" width="6.7" height="84.8"/>
-  <rect class="accent" x="453.4" y="250.4" width="6.7" height="49.6"/>
+  <rect class="accent" x="443.7" y="214.5" width="6.7" height="85.5"/>
+  <rect class="accent" x="453.4" y="250.0" width="6.7" height="50.0"/>
   <rect class="accent" x="463.1" y="295.2" width="6.7" height="4.8"/>
-  <rect class="accent" x="472.8" y="273.6" width="6.7" height="26.4"/>
+  <rect class="accent" x="472.8" y="272.6" width="6.7" height="27.4"/>
   <rect class="accent" x="482.5" y="208.0" width="6.7" height="92.0"/>
-  <rect class="accent" x="492.2" y="283.2" width="6.7" height="16.8"/>
-  <rect class="accent" x="501.8" y="243.2" width="6.7" height="56.8"/>
-  <rect class="accent" x="511.5" y="286.4" width="6.7" height="13.6"/>
-  <rect class="accent" x="521.2" y="228.8" width="6.7" height="71.2"/>
-  <rect class="accent" x="530.9" y="217.6" width="6.7" height="82.4"/>
-  <rect class="accent" x="540.6" y="266.4" width="6.7" height="33.6"/>
-  <rect class="accent" x="550.3" y="237.6" width="6.7" height="62.4"/>
+  <rect class="accent" x="492.2" y="283.1" width="6.7" height="16.9"/>
+  <rect class="accent" x="501.8" y="242.7" width="6.7" height="57.3"/>
+  <rect class="accent" x="511.5" y="286.3" width="6.7" height="13.7"/>
+  <rect class="accent" x="521.2" y="228.2" width="6.7" height="71.8"/>
+  <rect class="accent" x="530.9" y="237.9" width="6.7" height="62.1"/>
+  <rect class="accent" x="540.6" y="273.4" width="6.7" height="26.6"/>
+  <rect class="accent" x="550.3" y="257.2" width="6.7" height="42.8"/>
   <line class="rule" x1="56" y1="300.5" x2="560" y2="300.5"/>
   <text class="mono muted" x="56" y="322" font-size="11">52 weeks ago</text>
   <text class="mono muted" x="560" y="322" font-size="11" text-anchor="end">this week</text>
 
   <text class="mono muted" x="640" y="58" font-size="12" letter-spacing="1">LANGUAGES, WEIGHTED BY MY COMMITS</text>
-  <rect x="640.0" y="92" width="346.3" height="10" fill="#3178c6"/>
-  <rect x="988.3" y="92" width="59.9" height="10" fill="#f1e05a"/>
-  <rect x="1050.2" y="92" width="42.7" height="10" fill="#e34c26"/>
-  <rect x="1094.8" y="92" width="24.9" height="10" fill="#00b4ab"/>
-  <rect x="1121.7" y="92" width="8.1" height="10" fill="#563d7c"/>
-  <rect x="1131.8" y="92" width="7.2" height="10" fill="#336790"/>
-  <rect x="1141.0" y="92" width="13.0" height="10" fill="#8b949e"/>
+  <rect x="640.0" y="92" width="342.2" height="10" fill="#3178c6"/>
+  <rect x="984.2" y="92" width="63.5" height="10" fill="#f1e05a"/>
+  <rect x="1049.6" y="92" width="41.8" height="10" fill="#e34c26"/>
+  <rect x="1093.4" y="92" width="26.8" height="10" fill="#00b4ab"/>
+  <rect x="1122.2" y="92" width="7.9" height="10" fill="#336790"/>
+  <rect x="1132.1" y="92" width="6.7" height="10" fill="#3572a5"/>
+  <rect x="1140.7" y="92" width="13.3" height="10" fill="#8b949e"/>
   <rect x="640" y="131" width="8" height="8" fill="#3178c6"/>
   <text class="sans fg" x="658" y="140" font-size="15">TypeScript</text>
-  <text class="mono muted" x="1156" y="140" font-size="13" text-anchor="end">67.5%</text>
+  <text class="mono muted" x="1156" y="140" font-size="13" text-anchor="end">66.7%</text>
   <line class="rule" x1="640" y1="151" x2="1156" y2="151"/>
   <rect x="640" y="161" width="8" height="8" fill="#f1e05a"/>
   <text class="sans fg" x="658" y="170" font-size="15">JavaScript</text>
-  <text class="mono muted" x="1156" y="170" font-size="13" text-anchor="end">12.0%</text>
+  <text class="mono muted" x="1156" y="170" font-size="13" text-anchor="end">12.7%</text>
   <line class="rule" x1="640" y1="181" x2="1156" y2="181"/>
   <rect x="640" y="191" width="8" height="8" fill="#e34c26"/>
   <text class="sans fg" x="658" y="200" font-size="15">HTML</text>
-  <text class="mono muted" x="1156" y="200" font-size="13" text-anchor="end">8.7%</text>
+  <text class="mono muted" x="1156" y="200" font-size="13" text-anchor="end">8.5%</text>
   <line class="rule" x1="640" y1="211" x2="1156" y2="211"/>
   <rect x="640" y="221" width="8" height="8" fill="#00b4ab"/>
   <text class="sans fg" x="658" y="230" font-size="15">Dart</text>
-  <text class="mono muted" x="1156" y="230" font-size="13" text-anchor="end">5.2%</text>
+  <text class="mono muted" x="1156" y="230" font-size="13" text-anchor="end">5.6%</text>
   <line class="rule" x1="640" y1="241" x2="1156" y2="241"/>
-  <rect x="640" y="251" width="8" height="8" fill="#563d7c"/>
-  <text class="sans fg" x="658" y="260" font-size="15">CSS</text>
-  <text class="mono muted" x="1156" y="260" font-size="13" text-anchor="end">2.0%</text>
+  <rect x="640" y="251" width="8" height="8" fill="#336790"/>
+  <text class="sans fg" x="658" y="260" font-size="15">PLpgSQL</text>
+  <text class="mono muted" x="1156" y="260" font-size="13" text-anchor="end">1.9%</text>
   <line class="rule" x1="640" y1="271" x2="1156" y2="271"/>
-  <rect x="640" y="281" width="8" height="8" fill="#336790"/>
-  <text class="sans fg" x="658" y="290" font-size="15">PLpgSQL</text>
-  <text class="mono muted" x="1156" y="290" font-size="13" text-anchor="end">1.8%</text>
+  <rect x="640" y="281" width="8" height="8" fill="#3572a5"/>
+  <text class="sans fg" x="658" y="290" font-size="15">Python</text>
+  <text class="mono muted" x="1156" y="290" font-size="13" text-anchor="end">1.7%</text>
   <line class="rule" x1="640" y1="301" x2="1156" y2="301"/>
   <rect x="640" y="311" width="8" height="8" fill="#8b949e"/>
   <text class="sans fg" x="658" y="320" font-size="15">Other</text>
-  <text class="mono muted" x="1156" y="320" font-size="13" text-anchor="end">2.9%</text>
+  <text class="mono muted" x="1156" y="320" font-size="13" text-anchor="end">3.0%</text>
   <line class="rule" x1="640" y1="331" x2="1156" y2="331"/>
 
   <text class="mono muted" x="56" y="356" font-size="11">updated 2026-10-13 · regenerated daily by .github/workflows/stats.yml · private repositories are counted, never named</text>
