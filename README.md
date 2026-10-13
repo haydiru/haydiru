@@ -1,12 +1,14 @@
-<img src="./assets/header.svg" alt="Haidir Magribi, product engineer" width="100%">
+<img src="./assets/header.svg" alt="Haidir Magribi, AI full-stack engineer" width="100%">
 
-I'm Haidir, a product engineer based in Jakarta, Indonesia. I run PT HM Tech Innovation, where I build and operate
+I'm Haidir, an AI full-stack engineer based in Jakarta, Indonesia. I run PT HM Tech Innovation, where I build and operate
 software products on my own: specification, data model, backend, interface, store release and support.
 
 Most of what I build is web software and mobile apps with LLM features. When several organisations share one system,
 I isolate their data in the database itself, and I keep the AI provider swappable without touching product code.
 
 I'm open to remote engineering roles and contract work.
+
+[Email](mailto:official@mrwealthai.com) &nbsp;·&nbsp; [LinkedIn](https://id.linkedin.com/in/haidir-magribi) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@haidir_tech) &nbsp;·&nbsp; [Google Play](https://play.google.com/store/apps/developer?id=Hai+developer)
 
 <br>
 
@@ -19,6 +21,18 @@ I'm open to remote engineering roles and contract work.
 | [PropForma Lens](https://github.com/haydiru/propforma) | Chrome extension | Builds a commercial real estate underwriting workbook from a LoopNet or Crexi listing. Every figure is a live Excel formula. Paid subscription. |
 | [AO Mart](https://agenorganik.com/) | Web | Storefront for an organic food shop in Samarinda. Guests can order without an account. |
 | [mrwealthai.com](https://github.com/haydiru/mrwealthai-com) | Web | Company site and product registry. Next.js 16, Zod-validated content, JSON-LD structured data. |
+
+<br>
+
+## AI engineering
+
+What the LLM features in these products have in common:
+
+- **Provider-agnostic model layer.** Products call Gemini, OpenAI-format and Anthropic-format APIs behind one interface. In HR Automation each tenant brings its own provider, key and proxy URL.
+- **Fallback chains.** BeMind routes model calls through an edge proxy that falls back across OpenRouter, DeepSeek and Gemini.
+- **Structured extraction and scoring.** HR Automation pulls candidate identity out of free-form CVs and scores mandatory and weighted criteria against a passing grade, with a local PDF parser as a fallback.
+- **Multimodal input.** FlagCheck reads chat screenshots. BeMind turns CVs, PDFs, photos and voice notes into practice material.
+- **Privacy as a design constraint.** FlagCheck keeps no images, and AsapRadar ships without ads or trackers.
 
 <br>
 
@@ -67,7 +81,7 @@ Counted from every repository I work in, including private and client repositori
 
 ## Stack
 
-| | |
+| Area | Tools |
 |---|---|
 | Languages | TypeScript, JavaScript, Dart, SQL, C#, PHP |
 | Web | Next.js (App Router, server actions), React, Tailwind CSS, shadcn/ui |
